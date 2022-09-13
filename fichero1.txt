@@ -1,1 +1,2 @@
 Primera linea de Fichero1
+Segunda linea de Fichero1
